@@ -39,6 +39,7 @@
     "sonic_advance3": "Sonic Advance 3",
     "sonicbattle": "Sonic Battle",
     "superstar": "Mario & Luigi: Superstar Saga",
+    "supermarioworld": "Super Mario World",
     "supermarioadvance": "Super Mario Advance",
     "supermarioadvance2": "Super Mario Advance 2",
     "supermarioadvance3": "Super Mario Advance 3",
